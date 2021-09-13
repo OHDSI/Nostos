@@ -12,7 +12,7 @@ https://github.com/amazon-research/nl2sql-omop-cdm
 
 ## Data
 
-User-generated questions and the corresponding SQL templates to train and test the machine learning model. ([Data folder](./data/))
+We included the user-generated questions and the corresponding SQL templates to train and test the machine learning model in [data folder](./data/). They are folded/compressed versions of the actual training data where all synonym words/phrases are separated by /. Follow the instructions and run the jupyter notebook in [data/prepare_data.ipynb](./data/prepare_data.ipynb) to prepare the actual data from model development.
 
 ## Abstract
 
