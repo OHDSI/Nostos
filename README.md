@@ -4,7 +4,7 @@
 
 ## Poster
 
-[Poster PDF](./Poster/poster.pdf)
+[Poster PDF](./poster/poster.pdf)
 
 ## Code
 
@@ -12,7 +12,7 @@ https://github.com/amazon-research/nl2sql-omop-cdm
 
 ## Data
 
-User-generated questions and the corresponding SQL templates to train and test the machine learning model. ([Data folder](./Data/))
+User-generated questions and the corresponding SQL templates to train and test the machine learning model. ([Data folder](./data/))
 
 ## Abstract
 
