@@ -10,6 +10,10 @@
 
 https://github.com/amazon-research/nl2sql-omop-cdm
 
+## Data
+
+User-generated questions and the corresponding SQL templates to train and test the machine learning model. ([Data folder](./Data/))
+
 ## Abstract
 
 <b>Machine Learning-assisted query and information retrieval system on real-world data</b>
